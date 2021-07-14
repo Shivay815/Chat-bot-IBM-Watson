@@ -1,6 +1,8 @@
 # Chat-bot-IBM-Watson
 coursera guided project
-Course Objectives
+
+
+Course Objectives - 
 In this course, we are going to focus on three learning objectives:
 
 Building a chatbot that is able to converse with your customers &  generate a booking 
@@ -8,7 +10,7 @@ Exploring Intents, Entities and Dialog to create a conversational AI
 Integrating the chatbot with Facebook Messenger 
 By the end of this course, you will be able to build an AI chatbot that will be able to interact with your customers, answer their questions and through which your clients will be able to make a booking. We will also explore Intents, Entities and Dialog to create a conversational AI and we will deploy the chatbot to Messenger.
 
-Course Structure
+Course Structure - 
 This course is divided into 3 parts:
 
 Course Overview: This introductory reading material.
